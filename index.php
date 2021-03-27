@@ -1,7 +1,7 @@
-<?php $company = "MAMA NEMS SOUL FOOD RESTAURANT";
-$phone = "(407) 253-7744";
-	$address1 = "805 S KIRKMAN RD STE 106";
-	$address2 = "ORLANDO, FL 32811";
+<?php $company = "MUSIC CITY GYMNASTICS INC";
+$phone = "(615) 776-8333";
+	$address1 = "2008 JOHNSON INDUSTRIAL BLVD";
+	$address2 = "NOLENSVILLE, TN 37135-9773";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
@@ -73,7 +73,7 @@ $phone = "(407) 253-7744";
                     
                   </div>
                 </div>
-                <h3 class="u-text u-text-7">Contact us</h3>
+                <h3 class="u-text u-text-7">Tell us how to Improve</h3>
                 <h6 class="u-text u-text-8">We value your opinion!</h6>
               </div>
             </div>
